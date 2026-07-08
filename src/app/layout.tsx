@@ -24,20 +24,20 @@ const sora = Sora({
 });
 
 export const metadata: Metadata = {
-  title: "Hassan Raza | Deputy Manager Marketing",
+  title: "Hassan Alvi | Deputy Manager Marketing",
   description:
-    "Professional portfolio of Hassan Raza — Deputy Manager Marketing at Masood Textile Mills Ltd. with 7+ years of experience in apparel product development, export marketing, and European brand partnerships.",
+    "Professional portfolio of Hassan Alvi — Deputy Manager Marketing at Masood Textile Mills Ltd. with 8+ years of experience in apparel product development, export marketing, and European brand partnerships.",
   keywords: [
-    "Hassan Raza",
+    "Hassan Alvi",
     "Textile Marketing",
     "Merchandising",
     "Apparel Export",
     "Masood Textile Mills",
     "Product Development",
   ],
-  authors: [{ name: "Hassan Raza" }],
+  authors: [{ name: "Hassan Alvi" }],
   openGraph: {
-    title: "Hassan Raza | Deputy Manager Marketing",
+    title: "Hassan Alvi | Deputy Manager Marketing",
     description:
       "Marketing & merchandising professional specializing in European high-fashion brand development and textile exports.",
     type: "website",

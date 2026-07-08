@@ -64,6 +64,7 @@ next-env.d.ts
 # Cursor
 .cursor/
 
-# Personal CV source files (content is in src/data — keep public resume for download)
+# Personal CV source files (content is in src/data — public PDF is used for download)
 /CV-Hassan Raza- OLD.pdf
 /Hassan Alvi Resume.docx
+/Hassan Alvi Resume.pdf

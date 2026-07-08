@@ -34,7 +34,11 @@ export default function Hero() {
             </p>
 
             <div className="mt-6 flex flex-col gap-2.5 sm:mt-8 sm:flex-row sm:flex-wrap sm:justify-center lg:justify-start">
-              <a href={personalInfo.resumeUrl} download className="btn-primary">
+              <a
+                href={personalInfo.resumeUrl}
+                download={personalInfo.resumeFileName}
+                className="btn-primary"
+              >
                 <Download size={18} />
                 Download Resume
               </a>

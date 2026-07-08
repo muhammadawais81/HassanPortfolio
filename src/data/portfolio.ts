@@ -1,5 +1,5 @@
 export const personalInfo = {
-  name: "Hassan Raza",
+  name: "Hassan Alvi",
   role: "Deputy Manager Marketing",
   tagline: "Driving apparel exports through strategic merchandising and brand partnerships",
   location: "Faisalabad, Pakistan",
@@ -12,7 +12,8 @@ export const personalInfo = {
     "Chack #68 R.B Jinnah Colony Adda Johal, 33-KM Sheikhupura Road, Faisalabad 38000, Pakistan",
   company: "Masood Textile Mills Ltd.",
   companyUrl: "https://masoodtextile.com",
-  resumeUrl: "/Hassan-Raza-Resume.docx",
+  resumeUrl: "/Hassan-Alvi-Resume.pdf",
+  resumeFileName: "Hassan-Alvi-Resume.pdf",
 };
 
 export const brandPartners = [
@@ -24,7 +25,7 @@ export const brandPartners = [
 ];
 
 export const heroStats = [
-  { value: "7+", label: "Years Experience" },
+  { value: "8+", label: "Years Experience" },
   { value: "15%", label: "Cost Reduction" },
   { value: "100%", label: "KPI Award" },
   { value: "5+", label: "European Brands" },
